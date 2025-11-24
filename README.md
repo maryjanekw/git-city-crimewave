@@ -1,6 +1,6 @@
-## 🐱 Calico Mafia
+# 🐱 Calico Mafia
 ---
-# Crew Roster
+## Crew Roster
 - happycat - Daja
 - popcat - Hoang
 - toletolecat - Nazik
