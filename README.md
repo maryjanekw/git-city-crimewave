@@ -1,4 +1,6 @@
 # 🐱 Calico Mafia
+<img width="1216" height="832" alt="image" src="https://github.com/user-attachments/assets/033aef9b-83e9-4702-94d8-cc510a204120" />
+
 ---
 ## Crew Roster
 - <a href="https://emoji.gg/emoji/2633-happy-cat"><img src="https://cdn3.emoji.gg/emojis/2633-happy-cat.gif" width="64px" height="64px" alt="Happy_cat"></a> happycat - Daja
@@ -20,6 +22,8 @@
 - git revert
 ---
 ## Git Bash Screenshots
+![o0vwzuFwCGAFO_BigPic](https://github.com/user-attachments/assets/c627c5e8-edc7-47b6-a180-1ff00d58c751)
+
 Deletion and git revert
 <img width="1230" height="399" alt="image" src="https://github.com/user-attachments/assets/7feeb01f-e26d-4d30-9bf1-8ea7f8c7f33e" />
 Shows restored file
